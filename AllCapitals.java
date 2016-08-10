@@ -10,7 +10,7 @@ public class AllCapitals {
 
         FileWriter flr = new FileWriter("D:\\lines.txt");
 
-        flr.write("Goren pedal");
+        flr.write("Goren pedal i dolen travestit");
         flr.close();
     }
 }
