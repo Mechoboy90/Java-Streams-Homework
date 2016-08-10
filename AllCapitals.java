@@ -13,4 +13,4 @@ public class AllCapitals {
         flr.write("Dolen pedal");
         flr.close();
     }
-}
+}fgvsdfsdfdsfsd
